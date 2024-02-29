@@ -1,0 +1,79 @@
+body
+{
+	margin: 0;
+	padding:0;
+}
+
+a
+{
+	text-decoration:none;
+}
+
+
+#nav1:hover
+{
+	color : red;
+}
+
+#nav2:hover
+{
+	color : blue;
+}
+
+#nav3:hover
+{
+	color : green;
+}
+
+#nav4:hover
+{
+	color : chocolate;
+}
+
+#nav5:hover
+{
+	color: purple;
+}
+
+#nav6:hover
+{
+	color : pink;
+}
+
+
+footer
+{
+	margin-top: 30px;
+	padding: 100px;
+	 background: #F2F2F2;
+}
+
+section
+{
+	background: #F2F2F2;
+	margin: 15px;
+	padding: 10px;
+	border-radius: 10px;
+
+}
+
+#planning table
+{
+	background: cyan ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
